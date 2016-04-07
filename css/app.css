@@ -1,0 +1,12 @@
+
+.extendedrow {
+    height: vh;
+    width: vw;
+}
+
+.home {
+    width: vw;
+    height: 500px;
+    background-image: url(img1.jpg);
+    overflow: hidden;
+}
