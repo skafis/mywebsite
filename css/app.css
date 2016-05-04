@@ -5,8 +5,8 @@
 }
 
 .home {
-    width: vw;
-    height: 500px;
+    width: 100vw;
+    height: 80vh;
     background-image: url(img1.jpg);
     overflow: hidden;
 }
